@@ -1,6 +1,6 @@
-## Hey there 👋
+## Hey there, I'm Dara 👋
 
-I'm Dara, a Computer Science student at the University of Surrey.  
+I'm a CS student at the University of Surrey.  
 I'm passionate about software development and UI/UX design.
 
 Currently learning full-stack web development and always open to collaborating on interesting projects!
