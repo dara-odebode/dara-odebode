@@ -1,4 +1,4 @@
-## Hey there, I'm Dara 👋
+## Hi there, I'm Dara 👋
 
 I'm a CS student at the University of Surrey.  
 I'm passionate about software development and UI/UX design.
