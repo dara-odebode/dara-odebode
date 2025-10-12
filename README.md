@@ -5,7 +5,7 @@ I'm passionate about software development and UI/UX design.
 
 Currently learning full-stack web development and always open to collaborating on interesting projects!
 
-- 🔭 I’m currently working on my Bloom & Balance
+- 🔭 I’m currently working on my website Bloom & Balance
 - 💻 Aspiring software developer and UI/UX designer
 - 🚀 Building personal projects to improve my skills
 
